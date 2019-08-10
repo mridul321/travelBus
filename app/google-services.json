@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950214419883",
+    "firebase_url": "https://travelbus-2951d.firebaseio.com",
+    "project_id": "travelbus-2951d",
+    "storage_bucket": "travelbus-2951d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950214419883:android:405476b7b2561f93",
+        "android_client_info": {
+          "package_name": "com.example.android.travelbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950214419883-osjakc4mj6cct9g4r59mbg8hmugkatga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.travelbus",
+            "certificate_hash": "77aca1ccef40f91f3fcbfcc2410cc374a5832104"
+          }
+        },
+        {
+          "client_id": "950214419883-h6qh4nhfjdvmjoh6kaji0ovu95vgnvqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP1YSX6xpnUKe3x4_NR6hlQAqECOkMrS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950214419883-h6qh4nhfjdvmjoh6kaji0ovu95vgnvqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

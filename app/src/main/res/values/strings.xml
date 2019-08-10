@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TravelBus</string>
+    <string name="City1">City1</string>
+    <string name="Stop1">From LUCKNOW to GURGAON</string>
+    <string name="Stop2">From DELHI to NOIDA</string>
+    <string name="Stop3">From LUCKNOW to KANPUR</string>
+
+
+    <string name="Stop4">From MUMBAI to PUNE</string>
+    <string name="Stop5">From MUMBAI to ANDHERI</string>
+    <string name="Stop6">From PUNE to ANDHERI</string>
+
+
+    <string name="Stop7">From RAJHASTHAN to GUJRAT</string>
+    <string name="Stop8">From RAJHASTHAN to AJMER</string>
+    <string name="Stop9">From AJMER to RAJHASTHAN</string>
+
+</resources>
